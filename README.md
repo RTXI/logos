@@ -1,4 +1,3 @@
-logos
-=====
+### RTXI Logos
 
 RTXI logos

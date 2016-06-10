@@ -7,11 +7,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 48 48"
+   viewBox="0 0 113.70474 113.70957"
    id="svg4284"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="rtxi-logo-circle.svg">
+   sodipodi:docname="rtxi-logo-circle.svg"
+   width="113.70473"
+   height="113.70957">
   <metadata
      id="metadata4335">
     <rdf:RDF>
@@ -38,12 +40,16 @@
      id="namedview4333"
      showgrid="false"
      inkscape:zoom="0.43457604"
-     inkscape:cx="24"
-     inkscape:cy="24"
+     inkscape:cx="-633.96213"
+     inkscape:cy="295.50687"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg4284" />
+     inkscape:current-layer="svg4284"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
   <defs
      id="defs4286">
     <linearGradient
@@ -63,7 +69,7 @@
   </defs>
   <g
      id="g5090"
-     transform="matrix(0.52798222,0,0,0.52798222,85.612468,205.26932)">
+     transform="matrix(0.17941524,0,0,0.17941524,-0.17941524,-0.17941524)">
     <g
        transform="matrix(13.484655,0,0,13.484655,-12.484655,-12.484655)"
        id="g4293">
